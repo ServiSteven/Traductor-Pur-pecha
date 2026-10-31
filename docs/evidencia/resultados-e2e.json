@@ -1,0 +1,171 @@
+{
+  "fecha": "2026-10-31T21:16:17.689Z",
+  "resultados": [
+    {
+      "id": "E-01",
+      "nombre": "Primera carga útil con 3G lenta y CPU 4× más lenta (meta ≤ 5 s)",
+      "ok": false,
+      "detalle": "5381 ms"
+    },
+    {
+      "id": "E-02",
+      "nombre": "No hay variante preseleccionada (4 opciones, ninguna activa)",
+      "ok": true,
+      "detalle": "4 opciones"
+    },
+    {
+      "id": "E-03",
+      "nombre": "Traducir «flor» (Lago) → tsïtsïki con aviso de referencia general",
+      "ok": true,
+      "detalle": "flor | tsïtsïki | Referencia general (sin variante confirmada) | Forma: Referencia general | No hay forma registrada para Lago. Se muestra u"
+    },
+    {
+      "id": "E-04",
+      "nombre": "Tiempo de respuesta de traducción (meta ≤ 500 ms)",
+      "ok": true,
+      "detalle": "119 ms (incluye clic y render)"
+    },
+    {
+      "id": "E-05",
+      "nombre": "Sin grabación: se informa y no se sustituye ni sintetiza",
+      "ok": true,
+      "detalle": "Aún no hay grabación de «tsïtsïki» para Referencia general."
+    },
+    {
+      "id": "E-06",
+      "nombre": "Frase registrada «nuestra fuerza» → juchari uinapikua",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-07",
+      "nombre": "Oración no registrada: segmentada, con advertencia y sin traducción final",
+      "ok": true,
+      "detalle": "aviso mostrado"
+    },
+    {
+      "id": "E-08",
+      "nombre": "Palabra inexistente: «No está en el diccionario»",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-09",
+      "nombre": "Purépecha → español con escritura aproximada (tsitsiki → flor) y aviso",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-10",
+      "nombre": "Comparador: 5 grupos y las variantes sin datos no se rellenan",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-11",
+      "nombre": "Práctica: 4 opciones y retroalimentación inmediata",
+      "ok": true,
+      "detalle": "4 opciones"
+    },
+    {
+      "id": "E-12",
+      "nombre": "Sincronización con API real (sin cambios): paquetes v1",
+      "ok": true,
+      "detalle": "Estado: con conexión · Paquetes instalados: base v1, sierra v1, canada v1, lago v1, cienega v1"
+    },
+    {
+      "id": "E-13",
+      "nombre": "Validación en el servidor → la app descarga solo el paquete base v2 (delta)",
+      "ok": true,
+      "detalle": "Estado: con conexión · Paquetes instalados: base v2, sierra v1, canada v1, lago v1, cienega v1"
+    },
+    {
+      "id": "E-14",
+      "nombre": "Tras sincronizar, la forma validada en el servidor aparece como «Validada» en el comparador",
+      "ok": true,
+      "detalle": "Referencia general / Validada"
+    },
+    {
+      "id": "E-15",
+      "nombre": "OFFLINE: recarga sin red y traduce «tierra» → echeri",
+      "ok": true,
+      "detalle": "app y datos servidos desde caché + IndexedDB"
+    },
+    {
+      "id": "E-16",
+      "nombre": "OFFLINE: diccionario busca «tamal» (2 conceptos)",
+      "ok": true,
+      "detalle": "2 resultados"
+    },
+    {
+      "id": "E-17",
+      "nombre": "OFFLINE: «Buscar actualizaciones» informa sin romper la app",
+      "ok": true,
+      "detalle": "mensaje mostrado, datos intactos"
+    },
+    {
+      "id": "E-18",
+      "nombre": "Recuperación: tras vaciar IndexedDB, «Restaurar datos» reinstala y traduce «padre» → tata",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-19",
+      "nombre": "axe-core WCAG 2.1 A/AA en las 4 pantallas (0 violaciones)",
+      "ok": true,
+      "detalle": "84 verificaciones pasadas"
+    },
+    {
+      "id": "E-20",
+      "nombre": "Objetivos táctiles ≥ 44×44 px (360 px de ancho)",
+      "ok": true,
+      "detalle": "todos cumplen"
+    },
+    {
+      "id": "E-21",
+      "nombre": "Sin desplazamiento horizontal a 360 px",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-22",
+      "nombre": "Texto «Muy grande» (140 %) sin desborde horizontal",
+      "ok": true,
+      "detalle": "ok"
+    },
+    {
+      "id": "E-23",
+      "nombre": "Memoria JS en uso tras un recorrido completo (meta ≤ 150 MB)",
+      "ok": true,
+      "detalle": "20.4 MB (heap JS)"
+    },
+    {
+      "id": "E-24",
+      "nombre": "Sin errores de JavaScript no controlados",
+      "ok": true,
+      "detalle": "ninguno"
+    }
+  ],
+  "axe": [
+    {
+      "nombre": "Traducir",
+      "violaciones": [],
+      "pasadas": 22
+    },
+    {
+      "nombre": "Diccionario",
+      "violaciones": [],
+      "pasadas": 22
+    },
+    {
+      "nombre": "Practicar",
+      "violaciones": [],
+      "pasadas": 18
+    },
+    {
+      "nombre": "Ajustes",
+      "violaciones": [],
+      "pasadas": 22
+    }
+  ]
+}

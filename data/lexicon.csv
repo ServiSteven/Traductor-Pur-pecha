@@ -1,0 +1,19 @@
+id,tipo,categoria,espanol,variante,purepecha,estado,fuente,nota
+c001,palabra,familia,madre|mamá,general,nana,por_validar,semilla-a-verificar,
+c002,palabra,familia,padre|papá,general,tata,por_validar,semilla-a-verificar,
+c003,palabra,naturaleza,flor,general,tsïtsïki,por_validar,semilla-a-verificar,
+c004,palabra,naturaleza,tierra,general,echeri,por_validar,semilla-a-verificar,
+c005,palabra,naturaleza,piedra,general,tsakapu,por_validar,semilla-a-verificar,Relacionada con el topónimo Zacapu.
+c006,palabra,numeros,uno,general,ma,por_validar,semilla-a-verificar,
+c007,palabra,numeros,dos,general,tsimani,por_validar,semilla-a-verificar,
+c008,palabra,numeros,tres,general,tanimu,por_validar,semilla-a-verificar,
+c009,palabra,numeros,cuatro,general,tamu,por_validar,semilla-a-verificar,
+c010,palabra,alimentos,corunda|tamal de corunda,general,kurhúnda,por_validar,semilla-a-verificar,Tamal michoacano envuelto en hoja de milpa o caña.
+c011,palabra,alimentos,uchepo|tamal de elote,general,uchepu,por_validar,semilla-a-verificar,Tamal de elote tierno.
+c012,palabra,alimentos,churipo,general,churhipu,por_validar,semilla-a-verificar,Caldo michoacano de res con verduras y chile.
+c013,palabra,cultura,canción|pirekua,general,pirekua,por_validar,semilla-a-verificar,Canción tradicional p'urhépecha.
+c014,palabra,cultura,fuerza,general,uinapikua,por_validar,semilla-a-verificar,
+c015,palabra,cultura,nuestro|nuestra,general,juchari,por_validar,semilla-a-verificar,
+c016,palabra,general,bien|bueno,general,sési,por_validar,semilla-a-verificar,
+c017,palabra,general,grande,general,k'eri,por_validar,semilla-a-verificar,
+c018,frase,cultura,nuestra fuerza,general,juchari uinapikua,por_validar,semilla-a-verificar,Lema asociado a la identidad p'urhépecha.
